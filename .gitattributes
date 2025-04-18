@@ -1,2 +1,3 @@
 abc.txt filter=git-crypt diff=git-crypt\ndo-not-touch/** filter=git-crypt diff=git-crypt
 abc.txt filter=git-crypt diff=git-crypt\ndo-not-touch/** filter=git-crypt diff=git-crypt
+abc.txt filter=git-crypt diff=git-crypt\ndo-not-touch/** filter=git-crypt diff=git-crypt
